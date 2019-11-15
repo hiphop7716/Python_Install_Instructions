@@ -9,12 +9,12 @@
     * Customize installation
 * Step2
     * Enable all of the optional features
-    * Next
+    * Click `Next`
 * Step3
     * Enable: [x] Install for all users
-    * Modify the path: **`C:\Program Files\Python37 -> C:\Python37`**
+    * Modify the installation path: **`C:\Program Files\Python37 -> C:\Python37`**
     * Keep other enabled options
-    * Install
+    * Click `Install`
     * Waiting for Installation to complete
 * Step4
     * Check if the installation is complete
