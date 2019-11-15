@@ -18,7 +18,7 @@
     * Waiting for Installation to complete
 * Step4
     * Check if the installation is complete
-    * Open `Command Line`, type `python`
+    * Open `Command Line (cmd.exe)`
     * Type command `python`, the cmd will returns the message:
         * `Python 3.7.5 (default, Apr 24 2019, 15:29:51) [MSC v.1915 64 bit (AMD64)] on win32, Type "help", "copyright", "credits" or "license" for more information.`
     * Congratulations!!
