@@ -19,7 +19,8 @@
 * Step4
     * Check if the installation is complete
     * Open `Command Line`, type `python`
-    * The cmd will returns the message `Python 3.7.5 (default, Apr 24 2019, 15:29:51) [MSC v.1915 64 bit (AMD64)] on win32, Type "help", "copyright", "credits" or "license" for more information.`
+    * Type command `python`, the cmd will returns the message:
+        * `Python 3.7.5 (default, Apr 24 2019, 15:29:51) [MSC v.1915 64 bit (AMD64)] on win32, Type "help", "copyright", "credits" or "license" for more information.`
     * Congratulations!!
 * **Avoid the following situations**
     * The path is too long
