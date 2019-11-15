@@ -4,7 +4,7 @@
 * **Always download the latest of the previous version**
     * https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64.exe
 
-## Start installation
+## Getting Started - Installation
 * Step1
     * - [x] Install launcher for all users (recommended)
     * - [x] Add Python 3.7 to PATH
