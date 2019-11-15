@@ -12,7 +12,7 @@
     * Click `Next`
 * Step3
     * - [x] Install for all users
-    * Modify the installation path: 
+    * Modify the installation path
         * **`C:\Program Files\Python37 -> C:\Python37`**
     * Keep other enabled options
     * Click `Install`
@@ -20,7 +20,7 @@
 * Step4
     * Check if the installation is complete
     * Open `Command Line (cmd.exe)`
-    * Type command `python`, the cmd will returns the message:
+    * Type command `python`, the cmd will returns the message
         * `Python 3.7.5 (default, Apr 24 2019, 15:29:51) [MSC v.1915 64 bit (AMD64)] on win32, Type "help", "copyright", "credits" or "license" for more information.`
     * Congratulations!!
 * **Avoid the following situations**
