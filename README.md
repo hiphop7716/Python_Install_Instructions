@@ -4,14 +4,14 @@
 
 ## Start installation
 * Step1
-    * [x] Install launcher for all users (recommended)
-    * [x] **Add Python 3.7 to PATH**
+    * Enable: [x] Install launcher for all users (recommended)
+    * Enable: [x] **Add Python 3.7 to PATH**
     * Customize installation
 * Step2
     * Enable all of the optional features
     * Next
 * Step3
-    * [x] Install for all users
+    * Enable: [x] Install for all users
     * Modify the path: **`C:\Program Files\Python37 -> C:\Python37`**
     * Keep other enabled options
     * Install
