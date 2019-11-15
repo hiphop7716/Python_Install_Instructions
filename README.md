@@ -5,21 +5,21 @@
     * https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64.exe
 
 ## Getting Started - Installation
-* <span style="color: green">Step1</span>
+* Step-1
     * - [x] Install launcher for all users (recommended)
     * - [x] Add Python 3.7 to PATH
     * Customize installation
-* Step2
+* Step-2
     * Enable all of the optional features
     * Click `Next`
-* Step3
+* Step-3
     * - [x] Install for all users
     * Modify the installation path
         * **`C:\Program Files\Python37 -> C:\Python37`**
     * Keep other enabled options
     * Click `Install`
     * Waiting for Installation to complete
-* Step4
+* Step-4
     * Check if the installation is complete
     * Open `Command Line (cmd.exe)`
     * Type command `python`, the cmd will returns the message
