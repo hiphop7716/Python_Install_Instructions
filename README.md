@@ -5,4 +5,4 @@
 ## Start installation
 * -[x] Install launcher for all users (recommended)
 * -[x] Add Python 3.7 to PATH
-* 
+* **Customize installation** 
