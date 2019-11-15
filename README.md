@@ -1,5 +1,5 @@
 # Python Installation Step by Step
-[GITHUB]( https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiEp6q63evlAhXZyosBHbchD1EQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.python.org%2Fdownloads%2F&psig=AOvVaw2teXiBkEkYpNlK5sJ7jdwc&ust=1573890582188287 "Python Language Icon from Official")
+[GITHUB]( https://www.python.org/static/opengraph-icon-200x200.png "Python Language Icon from Official")
 
 ## How to get Python
 * **Always download the latest of the previous version**
