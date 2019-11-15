@@ -16,7 +16,7 @@
     * - [x] Install for all users
     * Modify the installation path
         * **`C:\Program Files\Python37 -> C:\Python37`**
-    * Keep other enabled options
+    * Other options keep the default settings
     * Click `Install`
     * Waiting for Installation to complete
 * Step-4
