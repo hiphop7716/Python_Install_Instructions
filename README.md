@@ -25,6 +25,4 @@
     * Congratulations!!
 * **Avoid the following situations**
     * The path is too long
-    * The path have a blank **(This is why it is not installed in the default path)**
-    * The path in the 
-  
+    * The path have a blank **(This is why it is not installed in the default path)**  
